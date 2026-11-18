@@ -1,0 +1,31 @@
+OrderID,OrderDate,CustomerName,Region,Category,ProductName,Quantity,UnitCost,UnitPrice,SaleAmount,IsReturn
+ORD-7006,2024-10-01,Lisa Chen,West,Fitness,Yoga Mat Ultra Grip,5,12.0,29.99,149.95,False
+ORD-7008,2024-10-01,Fatima Al-Hassan,Midwest,Fitness,Adjustable Dumbbells,5,68.0,149.99,749.95,False
+ORD-7004,2024-10-04,Angela Torres,Midwest,Fitness,Adjustable Dumbbells,3,68.0,149.99,449.97,False
+ORD-7014,2024-10-05,Sandra White,West,Fitness,Resistance Band Set,14,8.0,19.99,279.86,False
+ORD-7003,2024-10-08,David Kim,Southeast,Footwear,Women's Sneakers Lite,13,38.0,79.99,1039.87,False
+ORD-7007,2024-10-08,James Williams,Southeast,Fitness,Gym Gloves Pair,11,7.0,17.99,197.89,False
+ORD-7010,2024-10-08,Natalie Brooks,West,Footwear,Kids Running Shoes,11,25.0,54.99,604.89,True
+ORD-7026,2024-10-08,Steven Park,West,Apparel,Men's Polo Shirt,8,11.5,32.99,263.92,True
+ORD-7011,2024-10-09,Steven Park,Southeast,Footwear,Running Shoes Pro X,14,42.5,89.99,1259.86,False
+ORD-7018,2024-10-09,David Kim,West,Apparel,Classic Denim Jacket,13,28.0,64.99,844.87,False
+ORD-7027,2024-10-09,Michelle Davis,Southeast,Footwear,Kids Running Shoes,12,25.0,54.99,659.88,False
+ORD-7021,2024-10-10,Lisa Chen,Northeast,Sports Equipment,Badminton Set,15,15.0,36.99,554.85,True
+ORD-7025,2024-10-10,Natalie Brooks,Northeast,Fitness,Yoga Mat Ultra Grip,15,12.0,29.99,449.85,False
+ORD-7015,2024-10-11,Kevin Brown,Southeast,Apparel,Men's Polo Shirt,3,11.5,32.99,98.97,True
+ORD-7022,2024-10-12,James Williams,West,Fitness,Weightlifting Belt,5,30.0,69.99,349.95,False
+ORD-7029,2024-10-12,Sandra White,Northeast,Aquatics,Swim Goggles Pro,5,9.0,22.99,114.95,False
+ORD-7016,2024-10-13,Marcus Johnson,Midwest,Apparel,Men's Polo Shirt,7,11.5,32.99,230.93,False
+ORD-7020,2024-10-13,Brian Okafor,Midwest,Fitness,Yoga Mat Ultra Grip,10,12.0,29.99,299.9,False
+ORD-7013,2024-10-14,Robert Nguyen,Northeast,Cycling,Cycling Helmet,6,22.0,54.99,329.94,False
+ORD-7019,2024-10-15,Angela Torres,Southeast,Fitness,Adjustable Dumbbells,3,68.0,149.99,449.97,False
+ORD-7005,2024-10-19,Brian Okafor,Northeast,Accessories,Sports Water Bottle,2,5.5,14.99,29.98,True
+ORD-7001,2024-10-21,Marcus Johnson,Northeast,Apparel,Men's Polo Shirt,2,11.5,32.99,65.98,True
+ORD-7024,2024-10-22,Carlos Rivera,Midwest,Apparel,Compression Shorts,14,14.0,34.99,489.86,False
+ORD-7030,2024-10-22,Kevin Brown,West,Sports Equipment,Basketball,13,18.0,44.99,584.87,False
+ORD-7009,2024-10-23,Carlos Rivera,Northeast,Fitness,Adjustable Dumbbells,8,68.0,149.99,1199.92,False
+ORD-7023,2024-10-23,Fatima Al-Hassan,Southeast,Fitness,Yoga Mat Ultra Grip,2,12.0,29.99,59.98,False
+ORD-7002,2024-10-24,Priya Sharma,West,Sports Equipment,Basketball,5,18.0,44.99,224.95,False
+ORD-7012,2024-10-26,Michelle Davis,Midwest,Footwear,Waterproof Hiking Boot,13,55.0,124.99,1624.87,False
+ORD-7028,2024-10-27,Robert Nguyen,Midwest,Aquatics,Swim Goggles Pro,4,9.0,22.99,91.96,False
+ORD-7017,2024-10-28,Priya Sharma,Northeast,Aquatics,Swim Goggles Pro,11,9.0,22.99,252.89,False
